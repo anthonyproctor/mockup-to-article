@@ -1,0 +1,31 @@
+You've learned a lot about web development so far. 
+
+I want you to take a moment to write down your thoughts about web development here. 
+
+Answer the following questions:
+  
+
+* What new skills have you learned?
+ 
+	
+	I haven't really learned anything new yet, but I would say that it has been nice to re-learn and re-see some of the 	building blocks that I may have forgotten or not used in a while.
+ 
+* What has been easy?
+
+	
+	It has all been pretty easy, the direction is good and I have used Udacity before so that helps.
+  
+* What has been difficult?
+ 
+
+	I honestly don't feel like anything has been difficult.
+ 
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+		
+	The first project guided me very well and set me up for success on this project.
+	I used google and mdn.
+
+Thanks
+Anthony Proctor
